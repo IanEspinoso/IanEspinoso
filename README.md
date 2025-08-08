@@ -1,4 +1,4 @@
-# 👟 Get those shoes off, and come in!
+# 🏡 Take those shoes off, and come in!
 
 <img src="./layered-waves-haikei.png" alt="Banner" width="100%" /> <!-- Replace with your actual image URL -->
 
@@ -54,9 +54,9 @@ Here you'll find a collection of my **projects** and **resources** that showcase
 
 I do have a life outside of code (not a robot 🤖):
 
-- 🍞 Cooking for my few good friends
+- 🍞 **Cooking** for my few good friends
 - ✒️ Practicing **handwritten calligraphy**
-- 🐾 Walking the **most perfect dog** — *Rakkaus* ❤️
+- 🐾 Walking *the most perfect dog* — **Rakkaus** ❤️
 
 ---
 
