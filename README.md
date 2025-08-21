@@ -26,7 +26,8 @@ Here you'll find a collection of my **projects** and **resources** that showcase
 
 ## 🚀 Projects I’m most proud of (coming soon):
 
-- Excel Project *(incoming)*  
+- SQL Project *(incoming)*
+- Excel Project *(incoming)*
 - Python Project *(incoming)*  
 - Power BI Project 1 *(incoming)*  
 - Power BI Project 2 *(incoming)*  
