@@ -26,12 +26,11 @@ Here you'll find a collection of my **projects** and **resources** that showcase
 
 ## 🚀 Projects I’m most proud of (coming soon):
 
-- SQL Project *(incoming)*
-- Excel Project *(incoming)*
-- Python Project *(incoming)*  
-- Power BI Project 1 *(incoming)*  
-- Power BI Project 2 *(incoming)*  
-- Power BI Project 3 *(incoming)*
+- [Python project, using APIs: Goodreads Website](https://github.com/IanEspinoso/PetProj_Web_Pipeline)
+- [Python project, visualizing data: Wildfires in the USA](https://github.com/IanEspinoso/PetProj_Local_Pipeline)
+- SQL project *(incoming)*
+- Excel project *(incoming)*
+- Power BI project *(incoming)*  
 
 ---
 
