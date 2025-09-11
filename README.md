@@ -1,6 +1,6 @@
-# 🏡 Take those shoes off, and come in!
+# 🏡 Welcome to my portfolio!
 
-<img src="./layered-waves-haikei.png" alt="Banner" width="100%" /> <!-- Replace with your actual image URL -->
+<img src="./stacked-waves-blue.png" alt="Banner" width="100%" /> <!-- Replace with your actual image URL -->
 
 ---
 
