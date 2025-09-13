@@ -24,12 +24,13 @@ Here you'll find a collection of my **projects** and **resources** that showcase
 
 ---
 
-## 🚀 Projects I’m most proud of (coming soon):
+## 🚀 Projects I’m most proud of:
 
 - [Python project, using APIs: Goodreads Website](https://github.com/IanEspinoso/PetProj_Web_Pipeline)
 - [Python project, visualizing data: Wildfires in the USA](https://github.com/IanEspinoso/PetProj_Local_Pipeline)
-- SQL project *(incoming)*
-- Excel project *(incoming)*
+- [Python Guided Practice](https://github.com/IanEspinoso/didactic-eric_matthes_prep)
+- [SQL Guided Practice](https://github.com/IanEspinoso/didactic-ben_forta_prep)
+- [Excel Analysis: Rio de Janeiro's Airbnb Listings and Prices](https://github.com/IanEspinoso/mock_mr_xu)
 - Power BI project *(incoming)*  
 
 ---
